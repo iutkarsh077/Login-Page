@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+body{
+    background-image: url("back.jpg");
+}
+
+.body img{
+    display: inline-block;
+    height: 42vh;
+    width: 269px;
+    position: relative;
+    top: 62px;
+    left: 132px;
+    border: 3px solid black;
+    border-radius: 76px;
+}
+.name{
+    display: inline-block;
+    position: relative;
+    top: -56px;
+    left: 1133px;
+    height: 30vh;
+    font-weight:bolder;
+    font-style: normal;
+}
+.name:hover{
+    color: red;
+}
+.dur{
+    display: inline-block;
+    position: relative;
+    top: -12px;
+    left: 1034px;
+    height: 30vh;
+}
+
+.missile{
+    display: inline-block;
+    position: relative;
+    top: 122px;
+    left: -211px;
+    font-weight:bolder;
+    font-style: normal;
+}
+.missile:hover{
+    color: yellow;
+}
+.about{
+    display: inline-block;
+    position: relative;
+    top: 21px;
+    left: 1px;
+    line-height: 2.5em;
+}
+.about:hover{
+    color: blue;
+}
+
+
+.bi{
+    display: inline-block;
+    position: relative;
+    top: -51px;
+    left: 120px;
+}
+.bi:hover{
+    color: chartreuse;
+}
+
+.bio{
+    display: inline-block;
+    position: relative;
+    top: 120px;
+    left: -20px;
+}
+.bio:hover{
+    color: darkorange;
+}
+.wiki{
+    display: inline-block;
+    position: relative;
+    top: 191px;
+    left: 191px;
+}
+.wiki:hover{
+    color: honeydew;
+}
