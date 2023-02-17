@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(253, 189, 0);
+    height: 125vh;
+}
+
+.laid{
+    display: inline-block;
+    margin: 30px 0px 64px 79px;
+    color: firebrick;
+    position: relative;
+    top: -238px;
+    left: 153px;
+}
+
+.first{
+    display: inline-block;
+    position: relative;
+    top: 99px;
+    left: -158px;
+}
+
+.last{
+    display: inline-block;
+    position: relative;
+    top: -41px;
+    right: -577px;
+}
+
+.email{
+    display: inline-block;
+    position: relative;
+    top: 99px;
+    left: -158px;
+}
+
+.box1 input{
+    height: 30px;
+    width: 278px;
+}
+
+.role{
+    display: inline-block;
+    position: relative;
+    top: 99px;
+    right: -138px;
+}
+
+.job{
+    height: 30px;
+}
+
+.textarea{
+    position: relative;
+    top: 196px;
+    right: 17px;
+}
+
+#enter{
+    width: 782px;
+    height: 94px;
+    border: 2px solid black;
+}
+
+
+.city{
+    display: inline-block;
+    position: relative;
+    top: 283px;
+    left: -19px;
+}
+
+.pin{
+        display: inline-block;
+        position: relative;
+        top: 283px;
+        left: 430px;
+}
+
+.date{
+    display: inline-block;
+    position: relative;
+    top: 418px;
+    right: 317px;
+}
+
+
+.cv{
+    display: inline-block;
+    position: relative;
+    top: 418px;
+    right: -160px;
+}
+
+#upload{
+    width: 70px;
+}
+
+
+.apply{
+    display: inline-block;
+    color: blue;
+    background-color: firebrick;
+    padding: 10px;
+    border: 2px solid firebrick;
+    border-radius: 20px;
+    position: relative;
+    top: -338px;
+    left: 950px;
+}
